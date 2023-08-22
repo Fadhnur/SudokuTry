@@ -1,3 +1,1 @@
 # Sudoku
-
-![Uploading image.png…]()
